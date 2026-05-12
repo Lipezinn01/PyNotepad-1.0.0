@@ -16,13 +16,13 @@
 
 ## 🆕 NEW v1.0.0 - AUTOMATIC LINE BREAK
 
-**BEFORE (v1.0):**
+**BEFORE (OLD VERSION):**
 
 - Upon reaching 1024 characters → ❌ FROZEN
 - Had to manually press ENTER
 - Interrupted typing
 
-**NOW (v1.1):**
+**NOW (v1.0.0):**
 - Upon reaching 1024 characters → ✅ **AUTOMATIC BREAK**
 - Creates a new line automatically
 - Continue typing without stopping!
