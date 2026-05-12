@@ -14,7 +14,7 @@
 
 ---
 
-## 🆕 NEW v1.1 - AUTOMATIC LINE BREAK
+## 🆕 NEW v1.0.0 - AUTOMATIC LINE BREAK
 
 **BEFORE (v1.0):**
 
@@ -76,10 +76,8 @@ The .exe will be located in: `dist\Notepad.exe`
 - Detects unsaved changes before opening
 
 ### 4. FORMAT
-- Clears all text
-- Asks for confirmation before deleting
-- Message: "Are you sure you want to delete this text?"
-
+- Formats the text to a new character format.
+- changes some settings
 ### 5. HELP
 - Shows complete guide
 - "Got it" button to close
@@ -114,7 +112,7 @@ The .exe will be located in: `dist\Notepad.exe`
 If you try to type more than 1024 characters on a line, the editor will lock.
 
 To continue writing, press ENTER to go to the next line.
-
+(New - now it's an automatic line break)
 --
 
 ## 💡 USAGE EXAMPLES
@@ -286,3 +284,5 @@ To continue writing, press ENTER to go to the next line.
 ## ✨ ABOUT
 
 Text editor created as a project
+
+CREDITS: @lipezinn01
